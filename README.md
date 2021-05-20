@@ -7,7 +7,7 @@
 ### Цикломатска комплексност
 Цикломатска комплексност = предикатни јазли + 1, во овој случај бројот на предикатни јазли е 7, а цикломатската комплексност е 8.
 ### Тест случаи според критериумот Multiple condition 
-![image](https://user-images.githubusercontent.com/74112580/118937198-8d596b00-b94d-11eb-912b-7e16e0e538e8.png)
+![image](https://user-images.githubusercontent.com/74112580/118942374-f2fc2600-b952-11eb-9de5-fcc85b302da6.png)
 ### Тест случаи според критериумот Every branch
 ![image](https://user-images.githubusercontent.com/74112580/118937565-f640e300-b94d-11eb-8a64-1927ba09c44a.png)
 ### Објаснување на напишаните unit tests
